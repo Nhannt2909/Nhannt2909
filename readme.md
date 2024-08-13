@@ -12,24 +12,17 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Nhannt2909">Nhân Nguyễn</a></b>
+                <b><a target="_blank" href="#">Nhân Nguyễn</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="#">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>VietNam</b> 」
     <br>
@@ -68,7 +61,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 </p>
 
@@ -116,22 +108,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+  <a href="[https://git.io/streak-stats](https://github.com/Nhannt2909)"><img src="https://github-readme-streak-stats.herokuapp.com?user=nhannt2909&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhannt2909&theme=radical" alt="Nhan Nguyen GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Nhan Nguyen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nhannt2909&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Nhan Nguyen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nhannt2909&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nhan Nguyen Graph]([https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true](https://github-readme-activity-graph.vercel.app/graph?username=nhannt2909&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true))
